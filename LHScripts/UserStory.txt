@@ -1,0 +1,17 @@
+(As a <user type>, I want to <some goal> so that<some reason>)
+
+As a owner of L&H, I want to keep track of current and past clients,
+so I have information of jobs, prices, special detials/designs.
+
+As a material control of L&H, I want to keep track of material purchases,
+so I have job attached to, prices/invoices and clients.
+
+As a owner of L&H, I want to keep track of current and past employees,
+so I have information of jobs the have worked on, wage and skill set.
+
+As a owner of L&H, I want to keep track of quick access to estamated job cost.
+I would like to link employees wage, est. job hours, and materials
+
+As a owner of L&H, I want to keep track of up comming jobs.
+I would like to track cost est., est start date, est. end date, client.
+
